@@ -1,2 +1,3 @@
 # uk-sigcse
-A United Kingdom SIGCSE repository
+
+see [github.com/uk-sigcse](https://github.com/uk-sigcse)
